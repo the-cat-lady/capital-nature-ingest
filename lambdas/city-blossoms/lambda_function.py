@@ -94,10 +94,10 @@ def handler(event, context):
   return json.dumps(event_output, indent=2)
 
 #For local testing
-event = {
-  'url': 'http://cityblossoms.org/calendar/',
-  'source_name': 'city-blossoms'
-}
-is_local = True
-print(handler(event, {}))
+# event = {
+#   'url': 'http://cityblossoms.org/calendar/',
+#   'source_name': 'city-blossoms'
+# }
+# is_local = True
+# print(handler(event, {}))
 
