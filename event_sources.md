@@ -8,7 +8,7 @@ If you want to claim working on one of the event sources, update this doc by add
 
 |Owner|Event Source|Event Source Calendar|Scrapable|Notes|Done?|
 |--- |--- |--- |--- |--- |--- |
-||11th Street Bridge Park|https://www.bridgepark.org/events/calendar|||Y|
+|Melissa|11th Street Bridge Park|https://www.bridgepark.org/events/calendar|||Y|
 ||Anacostia Riverkeeper|https://www.facebook.com/pg/AnacostiaRiverkeeper/events|||
 ||Anacostia Watershed Society|https://www.anacostiaws.org/events-calendar.html|||
 |Scott|Arlington County|https://environment.arlingtonva.us/events/|Y||Y|
